@@ -1,0 +1,17 @@
+Nume	Prenume		Nota	Limba Străină
+Babalau Cristian 10 Engleza
+Biliciuc AnaMaria 8 Franceza
+Bufteac Ecaterina 8 Franceza
+Cebotari Anastasia 9 Franceza
+Codreanu Alexandru 10 Engleza
+Cordun Andreea 10 Franceza
+Darii Anastasia 8 Engleza
+Dubenco Alexandra 9 Franceza
+Grozavu David 10 Engleza
+Mandrescu Stefan 10 Engleza
+Moscvin Andreea 9 Engleza
+Radetkaia Ecaterina 8 Engleza
+Sanduleac Loredana 10 Franceza
+Stici Vasile 9 Franceza
+Tambur Ana-Maria 9 Engleza
+Tihonschi Alexandra 10 Franceza
